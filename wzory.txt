@@ -1,0 +1,5 @@
+1	A	(0.3*zuzycie+50)*cena
+2	B	(zuzycie+5)*0.7*cena
+3	C	zuzycie*2/2.3*cena
+4	D	zuzycie+50-zuzycie/1.65*cena
+5	E	0.8*zuzycie+(zuzycie/4)*cena
